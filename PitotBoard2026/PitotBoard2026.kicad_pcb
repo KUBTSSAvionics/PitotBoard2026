@@ -5655,7 +5655,7 @@
 			(uuid "29e94829-5744-4d11-9511-34e9cd48db2a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS810.step"
+		(model "${KICAD9_3DMODEL_DIR}/SKRPACE010/SKRPAC.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7950,6 +7950,17 @@
 			(uuid "698017b9-de6a-443a-9100-30711d6ec794")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/SDP32_125PA_TR_250PCS/SDP32-125PA-TR-250PCS.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 180 -90)
+			)
+		)
 	)
 	(footprint "Inductor_SMD:L_Changjiang_FTC322512S"
 		(layer "F.Cu")
@@ -14290,7 +14301,7 @@
 			(uuid "e5453b57-cf53-4534-90cd-91158a015b28")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SIP.3dshapes/SIP3_11.6x8.5mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R-78E-0.5_THT.step"
 			(offset
 				(xyz 0 0 0)
 			)
