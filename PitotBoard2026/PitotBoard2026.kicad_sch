@@ -16737,7 +16737,7 @@
 				)
 			)
 		)
-		(property "Value" "ICSP("
+		(property "Value" "ICSP"
 			(at -6.985 142.24 0)
 			(effects
 				(font
