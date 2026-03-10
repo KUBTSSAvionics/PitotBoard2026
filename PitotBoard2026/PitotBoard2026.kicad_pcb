@@ -8093,7 +8093,7 @@
 			(uuid "474e6caf-5321-40e3-a6ed-540ecb350bf4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Changjiang_FTC322512S.step"
+		(model "${KIPRJMOD}/3dmodels/DFE322512F-100M=P2.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8101,7 +8101,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
