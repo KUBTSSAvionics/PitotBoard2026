@@ -5655,7 +5655,7 @@
 			(uuid "29e94829-5744-4d11-9511-34e9cd48db2a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/SKRPACE010/SKRPAC.STEP"
+		(model "${KIPRJMOD}/3dmodels/SKRPAC.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6032,7 +6032,7 @@
 			(uuid "1817415b-fad8-44d5-8a4a-860535f88db0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin/Modular_jack.step"
+		(model "${KIPRJMOD}/3dmodels/Modular_jack.step"
 			(offset
 				(xyz -8.7 -10.8 0)
 			)
@@ -7950,7 +7950,7 @@
 			(uuid "698017b9-de6a-443a-9100-30711d6ec794")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/SDP32_125PA_TR_250PCS/SDP32-125PA-TR-250PCS.STEP"
+		(model "${KIPRJMOD}/3dmodels/SDP32-125PA-TR-250PCS.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
