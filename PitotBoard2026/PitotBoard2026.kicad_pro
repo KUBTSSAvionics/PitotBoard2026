@@ -240,6 +240,10 @@
         {
           "diameter": 0.6,
           "drill": 0.4
+        },
+        {
+          "diameter": 0.7,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -521,7 +525,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerber/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
