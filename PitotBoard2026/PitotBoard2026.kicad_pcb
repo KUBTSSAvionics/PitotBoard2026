@@ -8769,6 +8769,17 @@
 			(uuid "073b6a06-359b-4801-b426-01b732aa41a5")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/BME280.step"
+			(offset
+				(xyz -5 8 8.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 -90)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
