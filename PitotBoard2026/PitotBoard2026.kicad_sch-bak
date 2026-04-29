@@ -3121,25 +3121,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U11"
-				(at 2.1941 -22.86 0)
+			(property "Reference" "U"
+				(at 0 1.778 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "FXMA2102"
-				(at 2.1941 -24.13 0)
+			(property "Value" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+			(property "Footprint" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3224,7 +3222,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3260,7 +3258,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4791,7 +4789,7 @@
 					)
 				)
 			)
-			(property "Value" "AP7375"
+			(property "Value" "M78AR05-0.5"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -4799,7 +4797,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT"
+			(property "Footprint" "Package_SIP:SIP3_11.6x8.5mm"
 				(at 1.27 -6.35 0)
 				(effects
 					(font
@@ -4888,7 +4886,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4906,7 +4904,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16737,7 +16735,7 @@
 				)
 			)
 		)
-		(property "Value" "ICSP("
+		(property "Value" "ICSP"
 			(at -6.985 142.24 0)
 			(effects
 				(font
@@ -16895,7 +16893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SIP:SIP3_11.6x8.5mm"
+		(property "Footprint" "KUBTSS:SIP3_11.6x8.5mm"
 			(at 10.16 57.15 0)
 			(effects
 				(font
